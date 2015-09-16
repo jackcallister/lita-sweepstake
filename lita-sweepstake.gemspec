@@ -17,6 +17,4 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake", "~> 10.0"
-
-  spec.metadata = { "lita_plugin_type" => "handler" }
 end
