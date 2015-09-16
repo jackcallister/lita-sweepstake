@@ -1,19 +1,19 @@
-# lita-excuses
+# lita-sweepstakes
 
-[![Build Status](https://travis-ci.org/webdestroya/lita-excuses.png)](https://travis-ci.org/webdestroya/lita-excuses)
-[![Code Climate](https://codeclimate.com/github/webdestroya/lita-excuses.png)](https://codeclimate.com/github/webdestroya/lita-excuses)
-[![Coverage Status](https://coveralls.io/repos/webdestroya/lita-excuses/badge.png)](https://coveralls.io/r/webdestroya/lita-excuses)
+[![Build Status](https://travis-ci.org/webdestroya/lita-sweepstakes.png)](https://travis-ci.org/webdestroya/lita-sweepstakes)
+[![Code Climate](https://codeclimate.com/github/webdestroya/lita-sweepstakes.png)](https://codeclimate.com/github/webdestroya/lita-sweepstakes)
+[![Coverage Status](https://coveralls.io/repos/webdestroya/lita-sweepstakes/badge.png)](https://coveralls.io/r/webdestroya/lita-sweepstakes)
 
-**lita-excuses** is a handler for [Lita](https://github.com/jimmycuadra/lita) that provides a random excuse from [developerexcuses.com](http://developerexcuses.com/).
+**lita-sweepstakes** is a handler for [Lita](https://github.com/jimmycuadra/lita) that provides a random sweepstake from [developersweepstakes.com](http://developersweepstakes.com/).
 
 
 ## Installation
 
-    gem "lita-excuses"
+    gem "lita-sweepstakes"
 
 ## Usage
 
-* `Lita: excuse`
+* `Lita: sweepstake`
 
 ## License
 
